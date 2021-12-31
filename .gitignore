@@ -1,0 +1,25 @@
+# Emacs
+*~
+
+# Node.js
+.env
+node_modules
+coverage
+npm-debug.log
+build
+
+# Python
+__pycache__/
+# C extensions
+*.py[cod]
+*$py.class
+*.so
+
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+.DS_STORE
